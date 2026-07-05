@@ -1,6 +1,6 @@
 ## Rae Smith — Python Backend Engineer
 
-Self-taught backend engineer based in the US
+Self-taught backend engineer based in the US. I build production APIs, autonomous multi-agent systems, and security tooling — not tutorials, not to-do apps. Currently in a 14-day project sprint shipping across GraphQL, webhooks, AI integrations, and systems tooling.
 
 Always building, always learning, always adapting
 
